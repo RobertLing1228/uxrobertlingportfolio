@@ -18,7 +18,7 @@ export default defineNuxtConfig({
         },
     },
     image: {
-        provider: 'uxrobertling',
+        provider: 'netlify',
         netlify: {
             baseURl: process.env.IMAGES_URL
         }
