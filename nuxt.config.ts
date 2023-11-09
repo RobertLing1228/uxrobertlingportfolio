@@ -16,5 +16,11 @@ export default defineNuxtConfig({
             //Setup device as desktop view
             viewport: "width=device-width, initial-scale=1",
         },
-    }
+    },
+    image: {
+        provider: 'uxrobertling',
+        netlify: {
+            baseURl: process.env.IMAGES_URL
+        }
+      },
 });
