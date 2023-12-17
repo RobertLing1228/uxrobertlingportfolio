@@ -1,7 +1,7 @@
 ---
 title: "UIUX Case Study - CoinGecko.com"
 type: "Case Study"
-date: "Aug 21, 2023"
+date: "21 August 2023"
 img: "/coingecko/cover1.png"
 ---
 
