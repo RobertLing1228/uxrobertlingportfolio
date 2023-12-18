@@ -13,7 +13,7 @@ img: "/sunnyCandy/sunnyCandy.portfolio.png"
 
 ### Figma Design
 
-![Figma Overview Image](/sunnyCandy/figmaImageOverview.png){style="width:50rem;"}
+![Figma Overview Image](/sunnyCandy/figmaImageOverview.png)
 
 This is a startup project for one of my potential client, <b>(Henwan Sdn. Bhd.)</b>.
 This is a fun project, I grasp some new skill while making this project. Heavy infused by
@@ -34,32 +34,32 @@ Single Page Application(SPA), I decided to design all page into one. I decided t
 ###
 
 Spline 3D to create Hero Section:
-![Spline 3D](/sunnyCandy/1.spline3d.gif){style="width:50rem;"}
+![Spline 3D](/sunnyCandy/1.spline3d.gif)
 
 ###
 
 SPA replacing page with scroll effect:
-![Scroll effect](/sunnyCandy/2.SPAScrollToID.gif){style="width:50rem;"}
+![Scroll effect](/sunnyCandy/2.SPAScrollToID.gif)
 
 ###
 
 TailWindCSS was used for the Website:
-![tailwindcss](/sunnyCandy/tailwindcss.png){style="width:50rem;"}
+![tailwindcss](/sunnyCandy/tailwindcss.png)
 
 Hover effect from tailWindCSS:
-![hover effect](/sunnyCandy/3.tailwindcss.gif){style="width:50rem;"}
+![hover effect](/sunnyCandy/3.tailwindcss.gif)
 
 ###
 
 Animation with GSAP:
-![gsap animation](/sunnyCandy/4.gsapScrollTriggle.gif){style="width:50rem;"}
+![gsap animation](/sunnyCandy/4.gsapScrollTriggle.gif)
 
 ###
 
 VueForm for contact form, great for validation & form control:
-![vueform](/sunnyCandy/5.vueForm.gif){style="width:50rem;"}
+![vueform](/sunnyCandy/5.vueForm.gif)
 
 ###
 
 Overview of the site:
-![Figma Overview Image](/sunnyCandy/siteView.png){style="width:50rem;"}
+![Figma Overview Image](/sunnyCandy/siteView.png)
