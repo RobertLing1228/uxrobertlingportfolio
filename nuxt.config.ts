@@ -9,6 +9,9 @@ export default defineNuxtConfig({
         "floating-vue/nuxt",
         "@nuxtjs/google-fonts"
     ],
+    plugins: [
+        {src: '~/plugins/vue-gtag',}
+    ],
     app: {
         head: {
             //utf-8 for global use
