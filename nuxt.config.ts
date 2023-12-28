@@ -10,7 +10,7 @@ export default defineNuxtConfig({
         "@nuxtjs/google-fonts"
     ],
     plugins: [
-        {src: '~/plugins/vue-gtag',}
+        {src: '~/plugins/gtag.ts', mode: 'client'},
     ],
     app: {
         head: {
